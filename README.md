@@ -1,2 +1,2 @@
-# -
-安全扫描
+# Network security scan 
+网络安全扫描
